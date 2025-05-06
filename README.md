@@ -7,7 +7,7 @@
 
 ## Table of Contents 🚀
 
-* [Official Documentation](https://openai.github.io/openai-agents-python/)
+* [Official Documentation](https://openai.github.io/openai-agents-python/running_agents/)
 * [Description](#description)
 * [Features](#features)
 * [Installation](#installation)
