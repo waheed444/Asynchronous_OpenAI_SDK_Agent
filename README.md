@@ -49,6 +49,15 @@ By using an OpenAI-like structure with Gemini models under the hood, this projec
 - ✅ Fast, non-blocking data processing systems
 
 ---
+## Prerequisites
+
+Before getting started, make sure you have the following:
+- **Python 3.8+** installed on your system.
+- Basic knowledge of Python programming.
+- Familiarity with virtual environments and dependency management.
+- Git installed to clone the repository.
+
+---
 
 ## Project Features
 
@@ -86,6 +95,9 @@ pip install -r requirements.txt
 pip install openai-agents python-dotenv
 
 ```
+
+*(If a requirements file is not available, check `pyproject.toml` for dependency instructions.)*
+
 4. **Set up `.env` file:**
 
 Create a `.env` file in the root directory and add your Gemini API key:
