@@ -108,6 +108,14 @@ GIMINI_API_KEY  =  your_actual_gemini_api_key_here
 
 **Note:** Replace `your_actual_gemini_api_key_here` with your actual Gemini API key.
 
+5. **Run the Agent**
+
+After setting up the project, you can run the AI agent by executing the `main.py` file.  
+For Example:
+```
+python main.py 
+```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
